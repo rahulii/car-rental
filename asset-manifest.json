@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/car-rental/static/css/main.a420c084.chunk.css",
-    "main.js": "/car-rental/static/js/main.902156a0.chunk.js",
-    "main.js.map": "/car-rental/static/js/main.902156a0.chunk.js.map",
+    "main.js": "/car-rental/static/js/main.1417844e.chunk.js",
+    "main.js.map": "/car-rental/static/js/main.1417844e.chunk.js.map",
     "runtime-main.js": "/car-rental/static/js/runtime-main.75d31855.js",
     "runtime-main.js.map": "/car-rental/static/js/runtime-main.75d31855.js.map",
-    "static/js/2.2f36c523.chunk.js": "/car-rental/static/js/2.2f36c523.chunk.js",
-    "static/js/2.2f36c523.chunk.js.map": "/car-rental/static/js/2.2f36c523.chunk.js.map",
+    "static/js/2.dc58dab7.chunk.js": "/car-rental/static/js/2.dc58dab7.chunk.js",
+    "static/js/2.dc58dab7.chunk.js.map": "/car-rental/static/js/2.dc58dab7.chunk.js.map",
     "index.html": "/car-rental/index.html",
-    "precache-manifest.07ceab010747be755a10ec30f86b1d32.js": "/car-rental/precache-manifest.07ceab010747be755a10ec30f86b1d32.js",
+    "precache-manifest.3b2d28899d813b77afa5323eaf84b0f8.js": "/car-rental/precache-manifest.3b2d28899d813b77afa5323eaf84b0f8.js",
     "service-worker.js": "/car-rental/service-worker.js",
     "static/css/main.a420c084.chunk.css.map": "/car-rental/static/css/main.a420c084.chunk.css.map",
-    "static/js/2.2f36c523.chunk.js.LICENSE.txt": "/car-rental/static/js/2.2f36c523.chunk.js.LICENSE.txt",
+    "static/js/2.dc58dab7.chunk.js.LICENSE.txt": "/car-rental/static/js/2.dc58dab7.chunk.js.LICENSE.txt",
     "static/media/NA.PNG": "/car-rental/static/media/NA.f83b2c67.PNG",
     "static/media/App.css": "/car-rental/static/media/slider-img-4.de23e13e.jpg",
     "static/media/car.jpg": "/car-rental/static/media/car.735f89ca.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.75d31855.js",
-    "static/js/2.2f36c523.chunk.js",
+    "static/js/2.dc58dab7.chunk.js",
     "static/css/main.a420c084.chunk.css",
-    "static/js/main.902156a0.chunk.js"
+    "static/js/main.1417844e.chunk.js"
   ]
 }
