@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/car-rental/static/css/main.a420c084.chunk.css",
-    "main.js": "/car-rental/static/js/main.fcc01e37.chunk.js",
-    "main.js.map": "/car-rental/static/js/main.fcc01e37.chunk.js.map",
+    "main.js": "/car-rental/static/js/main.384fa2cf.chunk.js",
+    "main.js.map": "/car-rental/static/js/main.384fa2cf.chunk.js.map",
     "runtime-main.js": "/car-rental/static/js/runtime-main.75d31855.js",
     "runtime-main.js.map": "/car-rental/static/js/runtime-main.75d31855.js.map",
-    "static/js/2.ace50444.chunk.js": "/car-rental/static/js/2.ace50444.chunk.js",
-    "static/js/2.ace50444.chunk.js.map": "/car-rental/static/js/2.ace50444.chunk.js.map",
+    "static/js/2.dc58dab7.chunk.js": "/car-rental/static/js/2.dc58dab7.chunk.js",
+    "static/js/2.dc58dab7.chunk.js.map": "/car-rental/static/js/2.dc58dab7.chunk.js.map",
     "index.html": "/car-rental/index.html",
-    "precache-manifest.a16a5ad5892dc13a8f778567f20d681f.js": "/car-rental/precache-manifest.a16a5ad5892dc13a8f778567f20d681f.js",
+    "precache-manifest.5e9924cb7caf85286746091277925634.js": "/car-rental/precache-manifest.5e9924cb7caf85286746091277925634.js",
     "service-worker.js": "/car-rental/service-worker.js",
     "static/css/main.a420c084.chunk.css.map": "/car-rental/static/css/main.a420c084.chunk.css.map",
-    "static/js/2.ace50444.chunk.js.LICENSE.txt": "/car-rental/static/js/2.ace50444.chunk.js.LICENSE.txt",
+    "static/js/2.dc58dab7.chunk.js.LICENSE.txt": "/car-rental/static/js/2.dc58dab7.chunk.js.LICENSE.txt",
     "static/media/NA.PNG": "/car-rental/static/media/NA.f83b2c67.PNG",
     "static/media/App.css": "/car-rental/static/media/slider-img-4.de23e13e.jpg",
     "static/media/car.jpg": "/car-rental/static/media/car.735f89ca.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.75d31855.js",
-    "static/js/2.ace50444.chunk.js",
+    "static/js/2.dc58dab7.chunk.js",
     "static/css/main.a420c084.chunk.css",
-    "static/js/main.fcc01e37.chunk.js"
+    "static/js/main.384fa2cf.chunk.js"
   ]
 }
