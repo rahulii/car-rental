@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rahulii/car-rental/static/css/main.aaf3b94f.chunk.css",
+    "main.js": "/rahulii/car-rental/static/js/main.014ca241.chunk.js",
+    "main.js.map": "/rahulii/car-rental/static/js/main.014ca241.chunk.js.map",
+    "runtime-main.js": "/rahulii/car-rental/static/js/runtime-main.4b657fbf.js",
+    "runtime-main.js.map": "/rahulii/car-rental/static/js/runtime-main.4b657fbf.js.map",
+    "static/js/2.2f36c523.chunk.js": "/rahulii/car-rental/static/js/2.2f36c523.chunk.js",
+    "static/js/2.2f36c523.chunk.js.map": "/rahulii/car-rental/static/js/2.2f36c523.chunk.js.map",
+    "index.html": "/rahulii/car-rental/index.html",
+    "precache-manifest.41cf6b116efe7029d32711f5dda36ec1.js": "/rahulii/car-rental/precache-manifest.41cf6b116efe7029d32711f5dda36ec1.js",
+    "service-worker.js": "/rahulii/car-rental/service-worker.js",
+    "static/css/main.aaf3b94f.chunk.css.map": "/rahulii/car-rental/static/css/main.aaf3b94f.chunk.css.map",
+    "static/js/2.2f36c523.chunk.js.LICENSE.txt": "/rahulii/car-rental/static/js/2.2f36c523.chunk.js.LICENSE.txt",
+    "static/media/NA.PNG": "/rahulii/car-rental/static/media/NA.f83b2c67.PNG",
+    "static/media/App.css": "/rahulii/car-rental/static/media/slider-img-4.de23e13e.jpg",
+    "static/media/car.jpg": "/rahulii/car-rental/static/media/car.735f89ca.jpg",
+    "static/media/color.PNG": "/rahulii/car-rental/static/media/color.a6089de7.PNG",
+    "static/media/preloader.gif": "/rahulii/car-rental/static/media/preloader.6e5fedaa.gif",
+    "static/media/seat.PNG": "/rahulii/car-rental/static/media/seat.a80277eb.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b657fbf.js",
+    "static/js/2.2f36c523.chunk.js",
+    "static/css/main.aaf3b94f.chunk.css",
+    "static/js/main.014ca241.chunk.js"
+  ]
+}
