@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f654403d57a97210ba83f4992ddc518f",
+    "revision": "51ad3edc2f350d66aa334dbef15fe6b7",
     "url": "/car-rental/index.html"
   },
   {
-    "revision": "91aed7db3b49c3b95a8a",
+    "revision": "b5f111e886bd19eec5b3",
     "url": "/car-rental/static/css/main.a420c084.chunk.css"
   },
   {
-    "revision": "fe7105f0f77574018992",
-    "url": "/car-rental/static/js/2.2f36c523.chunk.js"
+    "revision": "132247d47553c0cda631",
+    "url": "/car-rental/static/js/2.ace50444.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/car-rental/static/js/2.2f36c523.chunk.js.LICENSE.txt"
+    "url": "/car-rental/static/js/2.ace50444.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91aed7db3b49c3b95a8a",
-    "url": "/car-rental/static/js/main.c1a351eb.chunk.js"
+    "revision": "b5f111e886bd19eec5b3",
+    "url": "/car-rental/static/js/main.fcc01e37.chunk.js"
   },
   {
     "revision": "b0181a689e28664e63b6",
